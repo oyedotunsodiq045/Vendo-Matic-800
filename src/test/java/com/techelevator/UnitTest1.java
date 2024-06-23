@@ -9,7 +9,7 @@ import org.junit.runners.MethodSorters;
 public class UnitTest1 {
 
 
-	@Test
-	public void testMethod1() {
-	}
+    @Test
+    public void testMethod1() {
+    }
 }
